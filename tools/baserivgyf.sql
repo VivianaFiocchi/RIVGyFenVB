@@ -67,8 +67,8 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`usuario`, `contraseña`) VALUES
-('COORDMDP', 123456),
-('equipo21', 987654);
+('COORDMDP', '1992MDP'),
+('EQUIPO', 'EQUI21');
 
 -- --------------------------------------------------------
 
